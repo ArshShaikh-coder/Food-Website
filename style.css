@@ -43,7 +43,7 @@ header ul {
     list-style: none;
     display: flex;
     gap: 1rem;
-    padding-right: 3rem;
+    padding-right: 2rem;
 }
 header ul li a, footer .card .box ul li a, #menu ul li a {
     text-decoration: none; 
